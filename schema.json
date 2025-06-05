@@ -1,0 +1,114 @@
+{
+  "type": "object",
+  "properties": {
+    "metadata": {
+      "type": "object",
+      "properties": {
+        "version": {
+          "type": "string"
+        },
+        "date": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "models": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "total_policies": {
+          "type": "integer"
+        }
+      }
+    },
+    "policies": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "policy_id": {
+            "type": "integer"
+          },
+          "policy_name": {
+            "type": "string"
+          },
+          "policy_slug": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "sources": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "hostnames": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "last_updated": {
+            "type": "string"
+          },
+          "scores": {
+            "type": "object",
+            "properties": {
+              "baseline": {
+                "type": "object"
+              },
+              "o1": {
+                "type": "object"
+              },
+              "o3": {
+                "type": "object"
+              },
+              "o4-mini": {
+                "type": "object"
+              },
+              "qwen3:30b-a3b": {
+                "type": "object",
+                "properties": {
+                  "score": {
+                    "type": "number"
+                  },
+                  "latency_ms": {
+                    "type": "integer"
+                  },
+                  "experiment_id": {
+                    "type": "string"
+                  },
+                  "prompt_tokens": {
+                    "type": "integer"
+                  },
+                  "response_tokens": {
+                    "type": "integer"
+                  },
+                  "rubric": {
+                    "type": "array"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "statistics": {
+      "type": "object",
+      "properties": {
+        "model_performance": {
+          "type": "object"
+        },
+        "score_distribution": {
+          "type": "object"
+        }
+      }
+    }
+  }
+}
