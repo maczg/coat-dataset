@@ -1,27 +1,36 @@
 cff-version: 1.2.0
-message: "If you use this dataset, please cite it as below."
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
 authors:
-  - family-names: "Gollo"
-    given-names: "Massimo"
-    orcid: "https://orcid.org/0009-0008-4403-7119"
-  - family-names: "Morana"
-    given-names: "Giovanni"
-    orcid: "https://orcid.org/0000-0002-5112-1887"
-  - family-names: "Sangiorgi"
-    given-names: "Alessandro"
-title: "COAT dataset"
+  - family-names: Gollo
+    given-names: Massimo
+  - family-names: Sangiorgi
+    given-names: Alessandro
+  - family-names: Morana
+    given-names: Giovanni
+  - family-names: Dimartino
+    given-names: Mirko
+  - family-names: Esposito
+    given-names: Flavio
+title: 'Quantifying Privacy Risk in Online Agreements with COAT: An LLM Approach'
 version: 1.0.0
-date-released: 2025-06-05
-url: "https://github.com/maczg/coat-dataset"
+doi: 10.1109/WETICE67341.2025.11092196
+date-released: '2025-08-04'
 preferred-citation:
-  type: misc
   authors:
-  - family-names: "Gollo"
-    given-names: "Massimo"
-    orcid: "https://orcid.org/0009-0008-4403-7119"
-  - family-names: "Morana"
-    given-names: "Giovanni"
-    orcid: "https://orcid.org/0000-0002-5112-1887"
-  - family-names: "Sangiorgi"
-    given-names: "Alessandro"
-  title: "COAT dataset"
+    - family-names: Gollo
+      given-names: Massimo
+    - family-names: Sangiorgi
+      given-names: Alessandro
+    - family-names: Morana
+      given-names: Giovanni
+    - family-names: Dimartino
+      given-names: Mirko
+    - family-names: Esposito
+      given-names: Flavio
+  title: 'Quantifying Privacy Risk in Online Agreements with COAT: An LLM Approach'
+  doi: 10.1109/WETICE67341.2025.11092196
+  type: conference-paper
+  pages: 1-6
+  year: '2025'
+  conference: '33rd IEEE International Conference on Enabling Technologies:
+Infrastructure for Collaborative Enterprises'
