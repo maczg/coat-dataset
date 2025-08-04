@@ -112,8 +112,18 @@ token_stats = scores_df.groupby('model')[['prompt_tokens', 'response_tokens']].m
 ```
 
 ## Citation
-If you use this dataset in your research, please cite: **WIP**
+If you use this dataset in your research, please cite: 
 
+@INPROCEEDINGS{11092196,
+  author={Gollo, Massimo and Sangiorgi, Alessandro and Morana, Giovanni and Dimartino, Mirko and Esposito, Flavio},
+  booktitle={2025 33rd International Conference on Enabling Technologies: Infrastructure for Collaborative Enterprises (WETICE)}, 
+  title={Quantifying Privacy Risk in Online Agreements with COAT: An LLM Approach}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Privacy;Analytical models;Data privacy;Costs;Law;Large language models;Scalability;Benchmark testing;Complexity theory;Prompt engineering;Privacy Policy;ToS;Security;Data;Large Language Models;LLM;Prompt Engineering},
+  doi={10.1109/WETICE67341.2025.11092196}}
 
 ## Acknowledgments
 
