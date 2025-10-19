@@ -5,21 +5,80 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bdfabfe-6e05-45ae-bacf-15fe9e430f5f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/full/train.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/grid_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioral-marketing/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/behavioral-marketing/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-breaches/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-breaches/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-collection-reasoning/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-collection-reasoning/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-deletion/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-deletion/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/behavioral-marketing/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/behavioral-marketing/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/behavioral-marketing/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/behavioral-marketing/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data-breaches/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/data-breaches/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data-breaches/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/data-breaches/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data-collection-reasoning/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/data-collection-reasoning/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data-collection-reasoning/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/data-collection-reasoning/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data-deletion/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/data-deletion/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/data-deletion/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/data-deletion/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/history/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/history/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/history/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/history/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/law-enforcement/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/law-enforcement/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/law-enforcement/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/law-enforcement/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/list-collected/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/list-collected/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/list-collected/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/list-collected/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/noncritical-purposes/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/noncritical-purposes/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/noncritical-purposes/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/noncritical-purposes/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/revision-notify/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/revision-notify/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/revision-notify/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/revision-notify/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/security/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/security/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/security/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/security/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/third-party-access/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/third-party-access/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/third-party-access/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/third-party-access/train.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/third-party-collection/test.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/third-party-collection/test.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/third-party-collection/train.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/third-party-collection/train.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data/train-00000-of-00001.parquet" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/history/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/history/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/law-enforcement/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/law-enforcement/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-collected/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/list-collected/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noncritical-purposes/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/noncritical-purposes/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/revision-notify/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/revision-notify/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/security/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/split_dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/split_dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-party-access/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-party-access/train.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-party-collection/test.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/third-party-collection/train.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="34HTAKhSzFu0JFyEBxPPdaVdDlM" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -28,34 +87,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "git-widget-placeholder": "main",
-    "go.import.settings.migrated": "true",
-    "ignore_missing_gitignore": "true",
-    "last_opened_file_path": "/Users/massimogollo/dev/sangiorgi/coat/data",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.general",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/massimogollo/dev/sangiorgi/coat/data&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/data" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data/full" />
     </key>
@@ -80,11 +141,23 @@
       <option name="presentableId" value="Default" />
       <updated>1760869353025</updated>
       <workItem from="1760869354085" duration="2958000" />
+      <workItem from="1760874728970" duration="1045000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
