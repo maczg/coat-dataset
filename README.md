@@ -6,33 +6,6 @@ language:
 pretty_name: Coats Privacy Policy Dataset
 configs:
 - config_name: full
-  features:
-    - name: policy_name
-      dtype: string
-    - name: policy_slug
-      dtype: string
-    - name: policy_text
-      dtype: string
-    - name: question_slug
-      dtype: string
-    - name: question_category
-      dtype: string
-    - name: question_text
-      dtype: string
-    - name: question_points
-      dtype: int64
-    - name: available_options
-      dtype: List    
-    - name: selected_option
-      struct:
-        - name: description
-          dtype: string
-        - name: option_key
-          dtype: string
-        - name: percent
-          dtype: int64
-        - name: text
-          dtype: string
   data_files:
   - split: train
     path: data/full/train*
