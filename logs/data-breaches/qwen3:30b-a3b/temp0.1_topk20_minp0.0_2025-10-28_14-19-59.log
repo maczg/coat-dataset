@@ -1,0 +1,102 @@
+INFO:root:starting evaluation
+INFO:root:host: http://10.8.0.34:11434
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Stripe, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Qwant, question: data-breaches, label: na, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Fastmail, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: NextDNS, question: data-breaches, label: na, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: GoDaddy, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Newegg, question: data-breaches, label: no, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Wise, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Dynadot, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Best Buy, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Khan Academy, question: data-breaches, label: eventually, prediction: eventually, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: hCaptcha, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Criptext, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Firefox Browser, question: data-breaches, label: eventually, prediction: eventually, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: iwantmyname, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Ente, question: data-breaches, label: yes-72, prediction: yes-72, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Quantcast, question: data-breaches, label: na, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Imgur, question: data-breaches, label: yes-72, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: VSCO, question: data-breaches, label: eventually, prediction: eventually, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Figma, question: data-breaches, label: eventually, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Notion, question: data-breaches, label: eventually, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: GitHub, question: data-breaches, label: eventually, prediction: eventually, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Invaluable, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Any.do, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Carvana, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Mullvad, question: data-breaches, label: na, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: ProtonVPN, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Evernote, question: data-breaches, label: no, prediction: eventually, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Kagi, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: System76, question: data-breaches, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: LogMeIn, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Privacy.com, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Weixin, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Jagex, question: data-breaches, label: eventually, prediction: eventually, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Epik, question: data-breaches, label: eventually, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Plex, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Jetdrop, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Duolingo, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Bumble, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: NordVPN, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Visible, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Loom, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: e-foundation, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Qobuz, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: OVH, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Habitica, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: TuneIn, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: OpenBazaar, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Asana, question: data-breaches, label: no, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Chase, question: data-breaches, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Charity Navigator, question: data-breaches, label: no, prediction: no, correct: True

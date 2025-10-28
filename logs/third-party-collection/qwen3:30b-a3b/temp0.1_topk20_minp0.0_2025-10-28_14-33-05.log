@@ -1,0 +1,102 @@
+INFO:root:starting evaluation
+INFO:root:host: http://10.8.0.34:11434
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Namecheap, question: third-party-collection, label: no, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Fastmail, question: third-party-collection, label: no, prediction: yes, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Quora, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Houseparty, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Fullstory, question: third-party-collection, label: critical-only, prediction: critical-only, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Hover, question: third-party-collection, label: no, prediction: critical-only, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: TickTick, question: third-party-collection, label: critical-only, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Flickr, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Mailbox.org, question: third-party-collection, label: critical-only, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Figma, question: third-party-collection, label: yes, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Twist, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Blizzard Entertainment (US), question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: PowerDNS, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Wikipedia, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Paddle, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Fur Affinity, question: third-party-collection, label: yes, prediction: critical-only, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Privacy.com, question: third-party-collection, label: no, prediction: critical-only, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: AnonAddy, question: third-party-collection, label: no, prediction: critical-only, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Instructure, question: third-party-collection, label: yes, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: gpodder.net, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Criptext, question: third-party-collection, label: no, prediction: yes, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: PrivacySpy, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Shopify, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Signal, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Ruqqus, question: third-party-collection, label: critical-only, prediction: yes, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Quad9, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Monstercat, question: third-party-collection, label: critical-only, prediction: yes, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: T-Mobile, question: third-party-collection, label: yes, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Mega, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: IONOS by 1&1, question: third-party-collection, label: yes, prediction: critical-only, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: WhatsApp, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Reddit, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: AdGuard DNS, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Epik, question: third-party-collection, label: no, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Crazy Egg, question: third-party-collection, label: no, prediction: yes, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: NextDNS, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: V0LT, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: hCaptcha, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: BitTube.tv, question: third-party-collection, label: yes, prediction: critical-only, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Mailfence, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: OneSearch, question: third-party-collection, label: critical-only, prediction: yes, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Write.as, question: third-party-collection, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Flipgrid, question: third-party-collection, label: critical-only, prediction: critical-only, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Stitcher, question: third-party-collection, label: no, prediction: yes, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Salesforce, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: GitHub, question: third-party-collection, label: critical-only, prediction: yes, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Internet.bs, question: third-party-collection, label: critical-only, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Obsidian, question: third-party-collection, label: no, prediction: critical-only, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Best Buy, question: third-party-collection, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Ada , question: third-party-collection, label: critical-only, prediction: yes, correct: False

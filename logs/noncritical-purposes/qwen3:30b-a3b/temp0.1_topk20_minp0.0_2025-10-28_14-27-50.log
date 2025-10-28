@@ -1,0 +1,102 @@
+INFO:root:starting evaluation
+INFO:root:host: http://10.8.0.34:11434
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Simplenote, question: noncritical-purposes, label: opt-out-all, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Ente, question: noncritical-purposes, label: na, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Greenhost, question: noncritical-purposes, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Taco Bell, question: noncritical-purposes, label: opt-out-some, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: PlayerFM, question: noncritical-purposes, label: opt-out-all, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: AdGuard DNS, question: noncritical-purposes, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Kast, question: noncritical-purposes, label: opt-out-some, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: HDtracks, question: noncritical-purposes, label: opt-out-all, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: 2ndLine, question: noncritical-purposes, label: no, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Namecheap, question: noncritical-purposes, label: opt-out-all, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: The Guardian, question: noncritical-purposes, label: opt-out-all, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Stitcher, question: noncritical-purposes, label: opt-out-all, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Mailbox.org, question: noncritical-purposes, label: opt-out-all, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Mullvad, question: noncritical-purposes, label: na, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: TikTok, question: noncritical-purposes, label: opt-out-some, prediction: opt-out-some, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: AnonAddy, question: noncritical-purposes, label: na, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Google, question: noncritical-purposes, label: opt-out-all, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: MetaBrainz, question: noncritical-purposes, label: na, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Avast, question: noncritical-purposes, label: opt-out-some, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: PrivacySpy, question: noncritical-purposes, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Privacy.com, question: noncritical-purposes, label: na, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Craigslist, question: noncritical-purposes, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: ID.me, question: noncritical-purposes, label: opt-out-all, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Newegg, question: noncritical-purposes, label: opt-out-some, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: VirusTotal, question: noncritical-purposes, label: opt-out-some, prediction: opt-out-some, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: GlobalGiving, question: noncritical-purposes, label: opt-out-some, prediction: opt-out-some, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Opera, question: noncritical-purposes, label: no, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: IONOS by 1&1, question: noncritical-purposes, label: opt-out-some, prediction: opt-out-some, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Instagram, question: noncritical-purposes, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Facebook, question: noncritical-purposes, label: opt-out-some, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Bumble, question: noncritical-purposes, label: opt-out-some, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Revolut, question: noncritical-purposes, label: opt-out-some, prediction: opt-out-some, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Zoom, question: noncritical-purposes, label: opt-out-some, prediction: opt-out-some, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: NextDNS, question: noncritical-purposes, label: opt-out-all, prediction: opt-in, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Majelan, question: noncritical-purposes, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Paypal, question: noncritical-purposes, label: opt-out-all, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: 1Password, question: noncritical-purposes, label: opt-in, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Monstercat, question: noncritical-purposes, label: opt-out-all, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Obsidian, question: noncritical-purposes, label: opt-out-all, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Loom, question: noncritical-purposes, label: opt-out-all, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Verizon, question: noncritical-purposes, label: opt-out-all, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Things, question: noncritical-purposes, label: na, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Bing, question: noncritical-purposes, label: opt-out-some, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Anchor, question: noncritical-purposes, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Jagex, question: noncritical-purposes, label: opt-out-all, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Paddle, question: noncritical-purposes, label: opt-out-all, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: SUMO Scheduler, question: noncritical-purposes, label: opt-out-some, prediction: opt-out-some, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Plex, question: noncritical-purposes, label: opt-out-some, prediction: opt-out-some, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: IMDb, question: noncritical-purposes, label: opt-out-all, prediction: opt-out-some, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: e-foundation, question: noncritical-purposes, label: na, prediction: opt-out-all, correct: False

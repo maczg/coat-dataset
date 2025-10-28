@@ -1,0 +1,102 @@
+INFO:root:starting evaluation
+INFO:root:host: http://10.8.0.34:11434
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Podalong, question: revision-notify, label: yes, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Salesforce, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Pocket Casts, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: System76, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Breaker, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Soverin, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: CNN, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Hover, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Evernote, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: 7digital US, question: revision-notify, label: yes, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Kast, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: AnonAddy, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Ancestry.com, question: revision-notify, label: yes, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Mozilla, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Anchor, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Qwant, question: revision-notify, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: GitHub, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Imgur, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: AdGuard DNS, question: revision-notify, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Any.do, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: NixNet, question: revision-notify, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Disroot, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: SimpleLogin, question: revision-notify, label: yes, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: IONOS by 1&1, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Telegram, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Epik, question: revision-notify, label: yes, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: HEXONET, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: 2ndLine, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: SaferVPN, question: revision-notify, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Firefox Send, question: revision-notify, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: T-Mobile, question: revision-notify, label: yes, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: ProtonMail, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Jetdrop, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Nebula, question: revision-notify, label: yes, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: WhatsApp, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Netflix, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Wells Fargo, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: ID.me, question: revision-notify, label: yes, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Majelan, question: revision-notify, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Brave Browser, question: revision-notify, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: iwantmyname, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Amazon US, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Taco Bell, question: revision-notify, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Invidious, question: revision-notify, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Mailfence, question: revision-notify, label: yes, prediction: yes, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: V0LT, question: revision-notify, label: na, prediction: na, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Babbel, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Letterboxd, question: revision-notify, label: no, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: NordVPN, question: revision-notify, label: yes, prediction: na, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Revolut, question: revision-notify, label: no, prediction: na, correct: False

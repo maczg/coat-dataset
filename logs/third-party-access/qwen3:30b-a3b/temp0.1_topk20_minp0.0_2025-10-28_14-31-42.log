@@ -1,0 +1,102 @@
+INFO:root:starting evaluation
+INFO:root:host: http://10.8.0.34:11434
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Flipgrid, question: third-party-access, label: no, prediction: yes-unspecified-critical, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Bandcamp, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Salesforce, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: ID.me, question: third-party-access, label: yes-unspecified-critical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Hostinger, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Twist, question: third-party-access, label: yes-specified-critical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: GearBest, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Hulu, question: third-party-access, label: yes-unspecified, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: DuckDuckGo, question: third-party-access, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: IVPN, question: third-party-access, label: yes-specified-critical, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: tsoHost, question: third-party-access, label: yes-specified-noncritical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Disroot, question: third-party-access, label: yes-unspecified-critical, prediction: yes-unspecified-critical, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Ruqqus, question: third-party-access, label: yes-specified-critical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Namecheap, question: third-party-access, label: yes-unspecified, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Soverin, question: third-party-access, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Poof Links, question: third-party-access, label: yes-unspecified, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Porkbun, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: BitTube.tv, question: third-party-access, label: no, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Qwant, question: third-party-access, label: no, prediction: yes-unspecified-critical, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: SUMO Scheduler, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Bank of America, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Instructure, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: OnePlus US, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Mailbox.org, question: third-party-access, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: iwantmyname, question: third-party-access, label: yes-specified-critical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Fastmail, question: third-party-access, label: yes-unspecified-critical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Micro Center, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Obsidian, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Habitica, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Fullstory, question: third-party-access, label: yes-specified-critical, prediction: yes-unspecified-critical, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Write.as, question: third-party-access, label: no, prediction: yes-unspecified-critical, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Name.com, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: NordVPN, question: third-party-access, label: yes-unspecified-critical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: PlayerFM, question: third-party-access, label: yes-specified-noncritical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Paddle, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: EteSync, question: third-party-access, label: yes-specified-critical, prediction: no, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Braintree, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Anchor, question: third-party-access, label: yes-specified-noncritical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Busuu, question: third-party-access, label: no, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: OneSearch, question: third-party-access, label: yes-unspecified-critical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: fruux, question: third-party-access, label: yes-unspecified-critical, prediction: yes-unspecified-critical, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Asana, question: third-party-access, label: yes-unspecified, prediction: None, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: V0LT, question: third-party-access, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Any.do, question: third-party-access, label: yes-specified-critical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Invaluable, question: third-party-access, label: yes-unspecified-critical, prediction: yes-unspecified, correct: False
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: VirusTotal, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Regery, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Letterboxd, question: third-party-access, label: no, prediction: no, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Best Buy, question: third-party-access, label: yes-unspecified, prediction: yes-unspecified, correct: True
+INFO:httpx:HTTP Request: POST http://10.8.0.34:11434/api/chat "HTTP/1.1 200 OK"
+INFO:root:policy: Quad9, question: third-party-access, label: no, prediction: yes-unspecified, correct: False
